@@ -1,0 +1,42 @@
+DISPOSITIVOS
+
+
+
+Inventario objInventario.
+
+atributos  nombre, descripción, precio, cantidad disponible en el inventario y fecha de lanzamiento del producto.
+
+
+
+LAPTOPS
+
+Smartphones           PRODUCTOS A VENDER
+
+
+televisores
+
+
+
+
+crudInventario ABSTRACTA
+
+Metodo agregarProducto(Dispositivo d)
+
+d.
+
+eliminarProducto()
+ActualizarProducto
+buscarProductoNombre()
+
+
+
+===================================
+
+INVENTARIO Struct              almacenar 
+
+ListDipositivos objeto = new ListDispositivos();
+
+getDispositivos()
+
+
+===================================
