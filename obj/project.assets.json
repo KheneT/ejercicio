@@ -8,44 +8,26 @@
     "net7.0": []
   },
   "packageFolders": {
-<<<<<<< HEAD
     "C:\\Users\\Julian\\.nuget\\packages\\": {}
-=======
-    "C:\\Users\\Personal\\.nuget\\packages\\": {}
->>>>>>> c849923a6f6712499cb8f36e8d581b50e36b85e8
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "D:\\Users\\Julian\\Desktop\\universidad\\proyectos\\c#\\ejercicio\\ejercicio.csproj",
-      "projectName": "ejercicio",
-      "projectPath": "D:\\Users\\Julian\\Desktop\\universidad\\proyectos\\c#\\ejercicio\\ejercicio.csproj",
+      "projectUniqueName": "D:\\Users\\Julian\\Desktop\\universidad\\proyectos\\c#\\ejercicio\\EjercicioGIT.csproj",
+      "projectName": "EjercicioGIT",
+      "projectPath": "D:\\Users\\Julian\\Desktop\\universidad\\proyectos\\c#\\ejercicio\\EjercicioGIT.csproj",
       "packagesPath": "C:\\Users\\Julian\\.nuget\\packages\\",
       "outputPath": "D:\\Users\\Julian\\Desktop\\universidad\\proyectos\\c#\\ejercicio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Julian\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-=======
-      "projectUniqueName": "D:\\2023\\Desktop\\EjercicioGIT\\EjercicioGIT.csproj",
-      "projectName": "EjercicioGIT",
-      "projectPath": "D:\\2023\\Desktop\\EjercicioGIT\\EjercicioGIT.csproj",
-      "packagesPath": "C:\\Users\\Personal\\.nuget\\packages\\",
-      "outputPath": "D:\\2023\\Desktop\\EjercicioGIT\\obj\\",
-      "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "C:\\Users\\Personal\\AppData\\Roaming\\NuGet\\NuGet.Config"
->>>>>>> c849923a6f6712499cb8f36e8d581b50e36b85e8
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-<<<<<<< HEAD
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-=======
->>>>>>> c849923a6f6712499cb8f36e8d581b50e36b85e8
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -82,5 +64,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché D:\\Users\\Julian\\Desktop\\universidad\\proyectos\\c#\\ejercicio\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

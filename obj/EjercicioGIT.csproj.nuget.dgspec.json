@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\2023\\Desktop\\EjercicioGIT\\EjercicioGIT.csproj": {}
+    "D:\\Users\\Julian\\Desktop\\universidad\\proyectos\\c#\\ejercicio\\EjercicioGIT.csproj": {}
   },
   "projects": {
-    "D:\\2023\\Desktop\\EjercicioGIT\\EjercicioGIT.csproj": {
+    "D:\\Users\\Julian\\Desktop\\universidad\\proyectos\\c#\\ejercicio\\EjercicioGIT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\2023\\Desktop\\EjercicioGIT\\EjercicioGIT.csproj",
+        "projectUniqueName": "D:\\Users\\Julian\\Desktop\\universidad\\proyectos\\c#\\ejercicio\\EjercicioGIT.csproj",
         "projectName": "EjercicioGIT",
-        "projectPath": "D:\\2023\\Desktop\\EjercicioGIT\\EjercicioGIT.csproj",
-        "packagesPath": "C:\\Users\\Personal\\.nuget\\packages\\",
-        "outputPath": "D:\\2023\\Desktop\\EjercicioGIT\\obj\\",
+        "projectPath": "D:\\Users\\Julian\\Desktop\\universidad\\proyectos\\c#\\ejercicio\\EjercicioGIT.csproj",
+        "packagesPath": "C:\\Users\\Julian\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\Julian\\Desktop\\universidad\\proyectos\\c#\\ejercicio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Personal\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Julian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
