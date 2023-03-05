@@ -9,7 +9,7 @@ namespace dispositivo
 		Inventario objInventario = new Inventario();
 
 
-		public Dispositivos(nombre, descripción, precio, cantidadDisponible, fecha)
+		public Dispositivos(String nombre, String descripción, doublee precio, int cantidadDisponible, DateTime fecha)
 		{
 			this.nombre = nombre;
 			this.precio = precio;

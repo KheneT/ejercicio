@@ -2,12 +2,13 @@
 
 namespace dispositivo
 {
-	public class Smarthphone : Dispositivo
+	public class Smarthphone : Dispositivo, CrudInventario
 	{
-		public Smarthphone()
+		public Smarthphone():base( nombre,  descripción,  precio,  cantidadDisponible,  fecha)
 		{
 
 		}
+
 
 	}
 }
