@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "oT49haoP8DD3GeNC6K+qtmL5/4HgR/9JMI6Gdk9njDL8a8vuS2b1gk59SkLFaTgKiku3+1f7NbxuQNmpil/w/A==",
   "success": true,
   "projectFilePath": "D:\\Users\\Julian\\Desktop\\universidad\\proyectos\\c#\\ejercicio\\ejercicio.csproj",
+=======
+  "dgSpecHash": "pi1zGbh4xXchwEvxkTVYmsUUQowBKODVyMJ4kg1O68+B2p+EqEvmoggfgwZHPv9/LMAfqF+YrRoyE5bAxgWFIg==",
+  "success": true,
+  "projectFilePath": "D:\\2023\\Desktop\\EjercicioGIT\\EjercicioGIT.csproj",
+>>>>>>> c849923a6f6712499cb8f36e8d581b50e36b85e8
   "expectedPackageFiles": [],
   "logs": []
 }

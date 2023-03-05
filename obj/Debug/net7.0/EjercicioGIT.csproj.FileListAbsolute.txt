@@ -1,0 +1,5 @@
+D:\2023\Desktop\EjercicioGIT\obj\Debug\net7.0\EjercicioGIT.csproj.AssemblyReference.cache
+D:\2023\Desktop\EjercicioGIT\obj\Debug\net7.0\EjercicioGIT.GeneratedMSBuildEditorConfig.editorconfig
+D:\2023\Desktop\EjercicioGIT\obj\Debug\net7.0\EjercicioGIT.AssemblyInfoInputs.cache
+D:\2023\Desktop\EjercicioGIT\obj\Debug\net7.0\EjercicioGIT.AssemblyInfo.cs
+D:\2023\Desktop\EjercicioGIT\obj\Debug\net7.0\EjercicioGIT.csproj.CoreCompileInputs.cache

@@ -8,8 +8,8 @@ namespace dispositivo
 
 		Inventario objInventario = new Inventario();
 
+		public Dispositivos(String nombre, String descripción, doublee precio, int cantidadDisponible, DateTime fecha)
 
-		public Dispositivo(String nombre, String descripción, double precio, int cantidadDisponible, DateTime fecha)
 		{
 			this.nombre = nombre;
 			this.precio = precio;

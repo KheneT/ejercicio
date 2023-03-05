@@ -4,9 +4,9 @@ namespace dispositivo
 {
     public abstract class CrudInventario
     {   
-        protected List<Dispositivo> productos = new List<Dispositivo>();
+        protected List<Dispositivos> productos = new List<Dispositivos>();
 
-        public virtual void AgregarProducto(Dispositivo producto)
+        public void AgregarProducto(Dispositivo producto)
         {
             Dispositivo.Add(producto);
         }
