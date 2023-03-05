@@ -1,0 +1,39 @@
+Descripción del ejercicio
+El ejercicio consiste en desarrollar un pequeño sistema de gestión de inventario para una tienda de electrónica que vende productos como laptops, smartphones y televisores. El sistema debe permitir a los usuarios agregar nuevos productos, actualizar los datos existentes, eliminar productos y buscar productos por diferentes criterios.
+
+Requerimientos funcionales
+
+
+
+El sistema debe permitir realizar las siguientes acciones:
+
+Agregar un nuevo producto al inventario. Para cada producto, se deben almacenar los siguientes datos: nombre, descripción, precio, cantidad disponible en el inventario y fecha de lanzamiento del producto.
+
+Actualizar los datos de un producto existente en el inventario. Los usuarios pueden actualizar cualquier dato del producto excepto la fecha de lanzamiento.
+
+Eliminar un producto del inventario.
+
+Buscar productos por diferentes criterios:
+
+Por nombre
+Por precio (rango)
+Por fecha de lanzamiento (rango)
+Requerimientos técnicos
+Se debe utilizar una lista para almacenar los productos.
+Se debe utilizar un diccionario para almacenar las fechas de lanzamiento de cada producto. La clave del diccionario será el nombre del producto y el valor será la fecha de lanzamiento.
+Se deben definir clases genéricas para manejar los datos de los productos y las fechas de lanzamiento.
+Se debe utilizar una clase enum para definir los diferentes criterios de búsqueda.
+Se debe utilizar una clase sellada para definir una clase que no pueda ser heredada.
+Se deben utilizar clases struct para definir tipos de datos de valor que se utilizan en el sistema.
+Se debe utilizar programación orientada a objetos y polimorfismo para la implementación del sistema.
+División del trabajo
+
+
+
+
+Se puede dividir el trabajo en tres partes:
+
+Parte 1: Definición de las clases genéricas y las clases struct.
+Parte 2: Implementación de los métodos para agregar, actualizar y eliminar productos del inventario.
+Parte 3: Implementación de los métodos para buscar productos por diferentes criterios.
+Cada persona puede trabajar en una parte distinta del ejercicio y después integrar el código en una única solución. También se puede trabajar en parejas, dividiendo el trabajo de forma distinta según las preferencias y habilidades de cada uno.
