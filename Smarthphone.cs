@@ -1,8 +1,13 @@
 ﻿using System;
 
-public class Class1
+namespace dispositivo
 {
-	public Class1()
+	public class Smarthphone : Dispositivo
 	{
+		public Smarthphone()
+		{
+
+		}
+
 	}
 }
