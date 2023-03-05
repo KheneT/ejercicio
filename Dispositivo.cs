@@ -3,13 +3,13 @@
 namespace dispositivo
 {
 
-	public class Dispositivos
+	public class Dispositivo
 	{
 
 		Inventario objInventario = new Inventario();
 
 
-		public Dispositivos(nombre, descripción, precio, cantidadDisponible, fecha)
+		public Dispositivo(String nombre, String descripción, double precio, int cantidadDisponible, DateTime fecha)
 		{
 			this.nombre = nombre;
 			this.precio = precio;

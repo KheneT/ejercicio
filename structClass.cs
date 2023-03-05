@@ -2,11 +2,11 @@ namespace dispositivo{
 public struct Inventario{
 
 
-    List<Dipositivo> objetoLista  = new List<Dipositivo>();
+    List<Dispositivo> objetoLista  = new List<Dispositivo>();
 
     public void getDispositivos(){
 
-        foreach(Dipositivo elemento in objetoLista){
+        foreach(Dispositivo elemento in objetoLista){
         
             elemento.getNombre();
         }

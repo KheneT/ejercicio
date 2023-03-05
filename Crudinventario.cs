@@ -25,9 +25,15 @@ namespace dispositivo
             productos.Remove(producto);
         }
 
-        public abstract List<Dispositivo> BuscarPorNombre(string nombre);
+        public abstract List<Dispositivo> BuscarPorNombre(string nombre)
+        {
+            return productos.FindAll(p => p.Nombre == nombre);
+        }
 
-        public abstract List<Dispositivo> BuscarPorPrecio(double precioMinimo, double precioMaximo);
+        public abstract List<Dispositivo> BuscarPorPrecio(double precioMinimo, double precioMaximo)
+        {
+            return productos.FindAll(p => p.precio >= precioMinimo & p.precio <= precioMaximo);
+        }
 
         
     }   
