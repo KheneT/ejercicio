@@ -1,8 +1,9 @@
 ﻿using System;
 
-public class Class1
+public class Televisor:Dispositivo
 {
-	public Class1()
+	public Televisor()
 	{
+		
 	}
 }
