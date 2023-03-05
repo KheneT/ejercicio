@@ -5,6 +5,10 @@ namespace dispositivo
 
 	public class Dispositivos
 	{
+
+		Inventario objInventario = new Inventario();
+
+
 		public Dispositivos(nombre, descripción, precio, cantidadDisponible, fecha)
 		{
 			this.nombre = nombre;
